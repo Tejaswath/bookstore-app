@@ -56,5 +56,7 @@ Database
 
  Working screenshots of the project: 
  <img width="866" alt="image" src="https://github.com/user-attachments/assets/5d0f80d4-ca0b-4877-b331-48e5bd14d7d0">
+ <img width="780" alt="image" src="https://github.com/user-attachments/assets/d1d09bf2-8d26-45b1-9292-9cb4eaa73820">
  
+
 
