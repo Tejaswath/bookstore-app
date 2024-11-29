@@ -53,3 +53,8 @@ Database
 	•	Minikube is recommended for local testing.
 	•	kubectl: Command-line tool to interact with Kubernetes.
 	•	Git: To clone the repository.
+
+ Working screenshots of the project: 
+ <img width="866" alt="image" src="https://github.com/user-attachments/assets/5d0f80d4-ca0b-4877-b331-48e5bd14d7d0">
+ 
+
